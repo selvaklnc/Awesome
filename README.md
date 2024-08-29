@@ -135,6 +135,7 @@
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][freeware icon]
 - [NSudo](https://github.com/M2Team/NSudo/) - A Powerful System Administration Tool. [![Open-Source Software][oss icon]](https://github.com/M2Team/NSudo/)
 - [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][freeware icon]
+- [wmWebStack](https://webstack.wikimint.com) - Localhost HTTP server stack with one click live publishing. Localhost websites can be viewed on any devices over public internet. ![Freeware][freeware icon]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
